@@ -1,0 +1,5 @@
+import{s as p,n as s}from"../chunks/scheduler.YAOc3RFa.js";import{S as c,i as d,s as h,e as m,k as u,d as o,f as v,c as f,l as g,m as y,g as l}from"../chunks/index.ZrFKu9Ic.js";function _(r){let a,e,i=`<h1>About this app</h1> <p>This is a <a href="https://kit.svelte.dev">SvelteKit</a> app. You can make your
+    own by typing the following into your command line and following the prompts:</p> <pre>npm init svelte@next</pre> <p>The page you&#39;re looking at is purely static HTML, with no client-side
+    interactivity needed. Because of that, we don&#39;t need to load any JavaScript.
+    Try viewing the page&#39;s source, or opening the devtools network panel and
+    reloading.</p>`;return{c(){a=h(),e=m("div"),e.innerHTML=i,this.h()},l(t){u("svelte-1myew8g",document.head).forEach(o),a=v(t),e=f(t,"DIV",{class:!0,"data-svelte-h":!0}),g(e)!=="svelte-1oyokrj"&&(e.innerHTML=i),this.h()},h(){document.title="About",y(e,"class","content svelte-10k3ssc")},m(t,n){l(t,a,n),l(t,e,n)},p:s,i:s,o:s,d(t){t&&(o(a),o(e))}}}class T extends c{constructor(a){super(),d(this,a,null,_,p,{})}}export{T as component};
